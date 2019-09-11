@@ -4,7 +4,10 @@ class Footer extends React.PureComponent {
   render() {
     return (
       <div className="footer">
-        <span>Made by Justin Chi © {new Date().getFullYear()}</span>
+        <span>
+          Kingsley Omotayo's Portfolio - Gatsby template by Justin Chi ©{' '}
+          {new Date().getFullYear()}
+        </span>
       </div>
     );
   }

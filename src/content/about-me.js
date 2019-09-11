@@ -11,7 +11,7 @@ export default [
   {
     input: 'Kingsley.resume',
     return:
-      '"<a rel="noopener" href="/justinchi_resume.pdf" target="_blank">justinchi.pdf</a>"',
+      '"<a rel="noopener" href="" target="_blank">kingsleyomotayo.pdf</a>"',
   },
   {
     input: 'Kingsley.interests',
