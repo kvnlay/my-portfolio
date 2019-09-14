@@ -42,16 +42,16 @@ export default [
         'https://raw.githack.com/Cena-JM/battleship/master/dist/index.html',
     },
   },
-  {
-    title: 'React Calculator',
-    description: 'A simple calculator built using ReactJS',
-    skills: ['HTML5', 'CSS3', 'ReactJS', 'NodeJS', 'ES6'],
-    image: calculator,
-    links: {
-      github: 'https://github.com/kvnlay/react-calculator',
-      preview: 'https://king-calc.herokuapp.com/',
-    },
-  },
+  // {
+  //   title: 'React Calculator',
+  //   description: 'A simple calculator built using ReactJS',
+  //   skills: ['HTML5', 'CSS3', 'ReactJS', 'NodeJS', 'ES6'],
+  //   image: calculator,
+  //   links: {
+  //     github: 'https://github.com/kvnlay/react-calculator',
+  //     preview: 'https://king-calc.herokuapp.com/',
+  //   },
+  // },
   {
     title: 'Weather app',
     description:
@@ -64,16 +64,16 @@ export default [
         'https://raw.githack.com/kvnlay/weather-app/develop/dist/index.html',
     },
   },
-  {
-    title: 'Todolist',
-    description:
-      'This is a todolist project with prioritized lists of all the tasks that you need to carry out. It list everything that you have to do, with different priorities: high being red, medium being orange, and low being green.',
-    skills: ['HTML5', 'CSS3', 'JavaScript', 'Webpack'],
-    image: todolist,
-    links: {
-      github: 'https://github.com/kvnlay/todo-list',
-      preview:
-        'https://raw.githack.com/Cena-JM/todo-list/development/dist/index.html',
-    },
-  },
+  // {
+  //   title: 'Todolist',
+  //   description:
+  //     'This is a todolist project with prioritized lists of all the tasks that you need to carry out. It list everything that you have to do, with different priorities: high being red, medium being orange, and low being green.',
+  //   skills: ['HTML5', 'CSS3', 'JavaScript', 'Webpack'],
+  //   image: todolist,
+  //   links: {
+  //     github: 'https://github.com/kvnlay/todo-list',
+  //     preview:
+  //       'https://raw.githack.com/Cena-JM/todo-list/development/dist/index.html',
+  //   },
+  // },
 ];

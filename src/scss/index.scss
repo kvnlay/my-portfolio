@@ -63,7 +63,7 @@ a {
   color: $grey;
   font-family: 'Camphor', Open Sans, Segoe UI, sans-serif;
   font-weight: 500;
-  font-size: 1.5em;
+  font-size: 2.5em;
   text-align: center;
   padding-top: 50px;
   margin-top: 50px;
@@ -71,6 +71,7 @@ a {
 
   @include mobile {
     margin-bottom: 40px;
+    font-size: 1.5em;
   }
 }
 
