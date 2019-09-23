@@ -25,6 +25,6 @@ export default [
   {
     input: 'Kingsley.skills',
     return:
-      '[ "JavaScript", "Ruby", "React", "Redux", "Sass", "webpack", "git"]',
+      '[ "JavaScript", "NodeJS" , "Ruby", "Rails" ,"React", "Redux", "Sass", "webpack", "git"]',
   },
 ];
