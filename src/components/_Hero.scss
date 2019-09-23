@@ -60,7 +60,7 @@
       padding: 20px 0;
       text-align: left;
 
-      @include mobile {
+      @include tablet {
         display: flex;
         flex-direction: row;
         margin-top: 10px;
