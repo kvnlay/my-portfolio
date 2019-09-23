@@ -1,9 +1,7 @@
 import facemash from 'images/facemash2.png';
 import battleship from 'images/battleship.png';
-import bookStore from 'images/bookstoreCMS.png';
-import todolist from 'images/Todolist.png';
+import bookStore from 'images/recipestore.png';
 import yelpHotel from 'images/yelphotel.png';
-import portfolio from 'images/portfolio.png';
 import weather from 'images/weather_app.png';
 
 // image can be any size. just make sure it is close to a 1:1 ratio - a square.
@@ -22,7 +20,8 @@ export default [
   },
   {
     title: 'Yelp Hotel',
-    description: 'Yelp hotel is an app where users can post reviews on hotels and also comment. ',
+    description:
+      'Yelp hotel is an app where users can post reviews on hotels and also comment. ',
     skills: ['HTML5', 'Bootstrap', 'NodeJS', 'Express.JS', 'MongoDB'],
     image: yelpHotel,
     links: {
@@ -32,7 +31,8 @@ export default [
   },
   {
     title: 'Recipe store',
-    description: 'Simple recipe bookstore app built with ReactJS and Redux where users can upload recipe books, information about the book etc.Simple recipe bookstore app built with ReactJS and Redux where users can upload recipe books, information about the book etc.',
+    description:
+      'Simple recipe bookstore app built with ReactJS and Redux where users can upload recipe books, information about the book etc.Simple recipe bookstore app built with ReactJS and Redux where users can upload recipe books, information about the book etc.',
     skills: ['HTML5', 'CSS3', 'ReactJS', 'Redux'],
     image: bookStore,
     links: {
