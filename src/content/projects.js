@@ -15,7 +15,7 @@ export default [
     image: facemash,
     links: {
       github: 'https://github.com/kvnlay/facemash',
-      preview: 'https://shrouded-refuge-15460.herokuapp.com/',
+      preview: 'https://face-mash.onrender.com/',
     },
   },
   {
