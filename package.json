@@ -32,6 +32,6 @@
     "react-scrollchor": "5.1.0"
   },
   "engines": {
-    "node": "12.x"
+    "node": "10.x"
   }
 }
