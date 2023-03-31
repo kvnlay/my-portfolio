@@ -26,7 +26,7 @@ export default [
     image: yelpHotel,
     links: {
       github: 'https://github.com/kvnlay/yelp-hotel',
-      preview: 'https://polar-citadel-56618.herokuapp.com',
+      preview: 'https://yelp-hotel.onrender.com/',
     },
   },
   {
