@@ -37,7 +37,7 @@ export default [
     image: bookStore,
     links: {
       github: 'https://github.com/kvnlay/magic-bookstore',
-      preview: 'https://magic-bookstore.herokuapp.com/',
+      preview: 'https://dapper-taiyaki-c13bf0.netlify.app/',
     },
   },
   {
