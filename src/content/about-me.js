@@ -1,7 +1,7 @@
 export default [
   {
     input: 'Kingsley.currentLocation',
-    return: '"Abuja, NG"',
+    return: '"London, UK"',
   },
   {
     input: 'Kingsley.contactInfo',
@@ -20,7 +20,7 @@ export default [
   {
     input: 'Kingsley.education',
     return:
-      '"B.Eng. Information and Communication Engineering - Covenant University"',
+      '"MSc. Applied Data Science - University of Essex"',
   },
   {
     input: 'Kingsley.skills',
